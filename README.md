@@ -7,16 +7,16 @@ installation:
 npm install lovecheck
 ```
 usage:
-```
+```js
 const oc = require("lovecheck");
 ```
 or
-```
+```js
 import oc from "lovecheck";
 ```
 ps: your operating environment need to supports es6 and commonjs.  
 a example:
-```
+```js
 import oc from "lovecheck";
 oc.isEmail("1164310634@qq.com"); // true;
 ```
