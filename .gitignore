@@ -1,2 +1,4 @@
 *.jshintrc
-LICENSE
+/node_modules
+/index.js
+/LICENSE
